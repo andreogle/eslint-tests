@@ -9,12 +9,6 @@
   },
   "author": "Andre Ogle",
   "license": "ISC",
-  "eslint-teamcity": {
-    "reporter": "errors",
-    "report-name": "Andre Report",
-    "error-count-name": "How many errors",
-    "warning-count-name": "How many warnings"
-  },
   "devDependencies": {
     "eslint": "^4.12.0",
     "eslint-config-airbnb-base": "^12.1.0",
