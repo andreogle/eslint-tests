@@ -16,7 +16,7 @@
     "eslint-teamcity": "andreogle/eslint-teamcity#inspections"
   },
   "eslint-teamcity": {
-    "reporter": "inspections",
+    "reporter": "errors",
     "report-name": "ESLint Violations",
     "warning-statistics-name": "ESLint Warnings",
     "error-statistics-name": "ESLint Errors"
