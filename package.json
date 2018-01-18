@@ -14,5 +14,11 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-teamcity": "andreogle/eslint-teamcity#inspections"
+  },
+  "eslint-teamcity": {
+    "reporter": "inspections",
+    "report-name": "ESLint Violations",
+    "warning-statistics-name": "ESLint Warnings",
+    "error-statistics-name": "ESLint Errors"
   }
 }
